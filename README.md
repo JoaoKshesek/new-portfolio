@@ -1,2 +1,2 @@
-# new-portfolio
-This is my new personal portfolio. 
+# portfolio
+This is my personal portfolio. 
